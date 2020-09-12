@@ -10,5 +10,6 @@ A idéia é criar um Sistema para gerenciamento de Restaurantes e Lancherias usa
 - BDD
 - CQRS
 - ReactJS
-
+- React Native
+- Electron
 
